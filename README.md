@@ -3,9 +3,9 @@
 - 😄 Pronouns: ela/dela
 
 <div align="center">
-  <a href="https://github.com/HellenCSilva"
+  <a href="https://github.com/HellenCSilva">
 
-  <img height="143em" src="https://github-readme-stats.vercel.app/api?username=HellenCSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22/%3E">
+  <img height="143em" src="https://github-readme-stats.vercel.app/api/username=HellenCSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22/%3E">
 
   <img height="143em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HellenCSilva&layout=compact&langs_count=7&theme=dracula%22/%3E">
 </div>
